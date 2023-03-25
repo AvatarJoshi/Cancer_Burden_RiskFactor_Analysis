@@ -1,2 +1,5 @@
 # Cancer_Burden_RiskFactor_Analysis
-(Ongoing Project) Use CDC data and machine learning to determine health risk factors associated with cancer in the US
+
+**Purpose:** To extract data regarding age-adjusted prevalance of cancer in the US and use machine learning to determine which health metrics are most important in predicting levels of cancer in US counties.
+
+
